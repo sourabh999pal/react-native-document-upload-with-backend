@@ -79,7 +79,8 @@ const register = () => {
         mobile_no,
         address,
         message,
-        
+        filedata,
+        image
         
       })
     })
